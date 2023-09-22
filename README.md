@@ -8,6 +8,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I once did a user-demo and noticed I left a squirrel icon as a temporary button (which I was meant to have removed before the demo). Thankfully my user was humorously receptive to it. Now, if you see any squirrels in my work, it is my own personal easter-egg.
 
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=jecarr&show_icons=true&count_private=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jecarr&hide=html&layout=compact)
+
 <!--
 **jecarr/jecarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
