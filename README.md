@@ -2,7 +2,7 @@
 
 - 👻 I'm the tech lead for [Arachne Digital](https://arachne.digital).
 - 🔭 I’m currently building Arachne's cyber-threat-intel capabilities.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning chess.
 - 💬 Feel free to get in touch with me about:
   - Junior-software-engineer career advice
   - Anything Arachne Digital related
